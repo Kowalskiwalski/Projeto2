@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: 6bd761f4c6594044ab4fee08a15d31af
+timeCreated: 1528117191
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trees_plants_rocks_0
+    21300002: trees_plants_rocks_1
+    21300004: trees_plants_rocks_2
+    21300006: trees_plants_rocks_3
+    21300008: trees_plants_rocks_4
+    21300010: trees_plants_rocks_5
+    21300012: trees_plants_rocks_6
+    21300014: trees_plants_rocks_7
+    21300016: trees_plants_rocks_8
+    21300018: trees_plants_rocks_9
+    21300020: trees_plants_rocks_10
+    21300022: trees_plants_rocks_11
+    21300024: trees_plants_rocks_12
+    21300026: trees_plants_rocks_13
+    21300028: trees_plants_rocks_14
+    21300030: trees_plants_rocks_15
+    21300032: trees_plants_rocks_16
+    21300034: trees_plants_rocks_17
+    21300036: trees_plants_rocks_18
+    21300038: trees_plants_rocks_19
+    21300040: trees_plants_rocks_20
+    21300042: trees_plants_rocks_21
+    21300044: trees_plants_rocks_22
+    21300046: trees_plants_rocks_23
+    21300048: trees_plants_rocks_24
+    21300050: trees_plants_rocks_25
+    21300052: trees_plants_rocks_26
+    21300054: trees_plants_rocks_27
+    21300056: trees_plants_rocks_28
+    21300058: trees_plants_rocks_29
+    21300060: trees_plants_rocks_30
+    21300062: trees_plants_rocks_31
+    21300064: trees_plants_rocks_32
+    21300066: trees_plants_rocks_33
+    21300068: trees_plants_rocks_34
+    21300070: trees_plants_rocks_35
+    21300072: trees_plants_rocks_36
+    21300074: trees_plants_rocks_37
+    21300076: trees_plants_rocks_38
+    21300078: trees_plants_rocks_39
+    21300080: trees_plants_rocks_40
+    21300082: trees_plants_rocks_41
+    21300084: trees_plants_rocks_42
+    21300086: trees_plants_rocks_43
+    21300088: trees_plants_rocks_44
+    21300090: trees_plants_rocks_45
+    21300092: trees_plants_rocks_46
+    21300094: trees_plants_rocks_47
+    21300096: trees_plants_rocks_48
+    21300098: trees_plants_rocks_49
+    21300100: trees_plants_rocks_50
+    21300102: trees_plants_rocks_51
+    21300104: trees_plants_rocks_52
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trees_plants_rocks_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 206
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 187
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 244
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 189
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 235
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 234
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 229
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 222
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 188
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 187
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 158
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 182
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 178
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 180
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 152
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 173
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 173
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 158
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 143
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 146
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 110
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 105
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 125
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 109
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 110
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 7
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_44
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 95
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 80
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 78
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 83
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 51
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trees_plants_rocks_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
