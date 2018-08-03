@@ -120,4 +120,10 @@ public class PlayerCtrl : MonoBehaviour {
 			isjumping = false; 
 		}
 	}
+
+	void OnTriggerEnter2D(Collider2D other){
+		if (other.gameObject.CompareTag("Coin")){
+			Destroy(other.gameObject);
+		}
+	}
 }
