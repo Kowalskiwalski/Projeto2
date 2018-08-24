@@ -30,6 +30,15 @@ public class UI{
 
 		public GameObject gameOverPanel;
 	}
+
+	[Serializable]
+	public class LevelComplete {
+
+		[Header("Other")]
+
+		public GameObject LevelCompletePanel;
+	}
 	public HUD hud;
 	public GameOver gameOver;
+	public LevelComplete levelComplete;
 }

@@ -120,4 +120,10 @@ public class GM : MonoBehaviour {
 		timerOn = false;
 		ui.gameOver.gameOverPanel.SetActive(true);
 	}
+
+	public void LevelComplete(){
+		Destroy(player.gameObject);
+		timerOn = false;
+		ui.levelComplete.LevelCompletePanel.SetActive(true);
+	}
 }
