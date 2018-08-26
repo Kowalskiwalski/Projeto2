@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 61471193631899496}
   - component: {fileID: 50745749185217210}
   - component: {fileID: 114005700858281026}
-  m_Layer: 11
+  m_Layer: 12
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -39,7 +39,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4766738832518000}
-  m_Layer: 11
+  m_Layer: 12
   m_Name: Feet
   m_TagString: Untagged
   m_Icon: {fileID: 0}

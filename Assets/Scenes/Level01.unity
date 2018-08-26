@@ -5362,6 +5362,22 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1770245694561136, guid: dfaee4ffe9d69a7438b71359954ba74c, type: 2}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635168248918984, guid: dfaee4ffe9d69a7438b71359954ba74c, type: 2}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1869195926697812, guid: dfaee4ffe9d69a7438b71359954ba74c, type: 2}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1558420805151186, guid: dfaee4ffe9d69a7438b71359954ba74c, type: 2}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: dfaee4ffe9d69a7438b71359954ba74c, type: 2}
   m_IsPrefabParent: 0
@@ -5958,6 +5974,7 @@ MonoBehaviour:
   playerPrefab: {fileID: 1141921278730126, guid: 1296a6f89d65b594498160e7fd193a00,
     type: 2}
   timeToRespawn: 2
+  timeToKill: 1.5
   maxTime: 120
   ui:
     hud:
